@@ -1,0 +1,10 @@
+javascript me memory 2 types ke hoti 
+1 Stack (primitive)
+2 Heap (non primitive)
+
+stack me hame variable ke copy milti h agar hum use 2 variable ke saath use kare to
+jab ke heap me hame reference milti h variable kare
+
+
+* isliye agar hum stack ke variable me change karte h to original value me changes nhi  hota
+* balki agar hum heap ke kisi bhe variable me changes karte h to uski original value me bhe changes hota h
